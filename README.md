@@ -1,1 +1,1 @@
-Aplikasi Android menggunakan kotlin dengan database firebase Firestore
+Aplikasi Android menggunakan kotlin dengan database firebase Firestore oleh Rizki Ramadhan
